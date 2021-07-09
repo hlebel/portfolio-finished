@@ -1,0 +1,96 @@
+{
+    "basics": {
+      "name": "Henri Le Bel",
+      "label": "Programmer",
+      "picture": "",
+      "email": "hparalleda@gmail.com",
+      "phone": "0767393756",
+      "website": "",
+      "summary": "Hello stranger, what are you buyin' ?",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "San Francisco",
+        "countryCode": "US",
+        "region": "California"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "john",
+        "url": "http://twitter.com/john"
+      }]
+    },
+    "work": [{
+      "company": "Lusis",
+      "position": "Apprentice Developper",
+      "website": "http://company.com",
+      "startDate": "2020-05-01",
+      "endDate": "2022-05-01",
+      "summary": "Back-end developper for a monetic company",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "How to contact me",
+      "position": "0767393756",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Hparalleda@gmail.com",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "OpenClassrooms",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2019-05-01",
+      "endDate": "2021-05-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }],
+    "skills": [{
+      "name": "Full stack development",
+      "level": "Jack of all Trades",
+      "keywords": [
+        "HTML/",
+        "CSS/",
+        "Javascript/",
+        "C++/",
+        "XML/",
+        "react"
+      ]
+    }],
+    "languages": [{
+      "language": "English, French, Spanish",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }]
+  }
